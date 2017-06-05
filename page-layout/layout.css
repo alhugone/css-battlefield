@@ -1,0 +1,34 @@
+	html,
+	body {
+	    height: 100%;
+	    margin: 0px;
+	}
+
+	body {
+	    box-sizing: border-box;
+	    padding: 10px;
+	    display: flex;
+	    flex-direction: column;
+	}
+
+	div {
+	    border: 1px dashed red;
+	    text-align: center;
+	}
+
+	.header {
+	    flex: 0 0 auto;
+	}
+
+	.main {
+	    flex: 1;
+	}
+
+	.main-container {
+	    flex: 1;
+	    display: flex;
+	}
+
+	.side-nav {
+	    flex: 0 0 auto;
+	}
