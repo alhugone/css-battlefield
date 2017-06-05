@@ -2,4 +2,4 @@
 
 [Simple raw css version](page-layout/flex-layout-page-clear.html)
 
-[Version prettified](page-layout/flex-layout-page-clear.html) with [Semantic-Ui](https://semantic-ui.com)
+[Version prettified](page-layout/flex-layout-page-semantic.html) with [Semantic-Ui](https://semantic-ui.com)
